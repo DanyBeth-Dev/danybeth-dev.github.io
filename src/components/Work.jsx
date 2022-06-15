@@ -139,9 +139,9 @@ const Work = () => {
                 API, jQuery and Ajax
               </span>
               <div className='pt-8 text-center'>
-                <a href='/'>
+                <a href='https://daniela-dev.cl/pokeApi/'>
                   <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>
-                    Demo Soon
+                    Demo
                   </button>
                 </a>
                 <a href='https://github.com/DanyBeth-Dev/pokeApi'>
