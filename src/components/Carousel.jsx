@@ -23,7 +23,7 @@ const Carousel = () => {
         <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="7" aria-label="Slide 8"></button>
         <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="8" aria-label="Slide 9"></button>
       </div>
-      <div className="carousel-inner relative max-w-[650px] m-auto overflow-hidden">
+      <div className="carousel-inner relative max-w-[800px] m-auto overflow-hidden">
         <div className="carousel-item active float-left w-full">
           <img src={foto01} className="block w-full" alt="Wild Landscape" />
         </div>
