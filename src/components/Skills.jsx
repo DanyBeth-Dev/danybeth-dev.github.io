@@ -18,6 +18,7 @@ import Git from '../assets/git.png'
 import Heroku from '../assets/heroku.png'
 import Netlify from '../assets/netlify.png'
 import Typescript from '../assets/typescript.png'
+import Mongo from '../assets/mongo.png'
 
 const Skills = () => {
     const changeLanguage = () => {
@@ -55,8 +56,20 @@ const Skills = () => {
                   <p className='my-4'>JAVASCRIPT</p>
               </div>
               <div className='shadow-md shadow-[#040c16] hover:scale-110 duration-500'>
+                  <img className='w-20 mx-auto' src={Node} alt="HTML icon" />
+                  <p className='my-4'>NODE JS</p>
+              </div>
+              <div className='shadow-md shadow-[#040c16] hover:scale-110 duration-500'>
                   <img className='w-20 mx-auto' src={ReactImg} alt="HTML icon" />
                   <p className='my-4'>REACT</p>
+              </div>
+              <div className='shadow-md shadow-[#040c16] hover:scale-110 duration-500'>
+                  <img className='w-20 mx-auto' src={Postgresql} alt="HTML icon" />
+                  <p className='my-4'>POSTGRESQL</p>
+              </div>
+              <div className='shadow-md shadow-[#040c16] hover:scale-110 duration-500'>
+                  <img className='h-20 mx-auto' src={Mongo} alt="HTML icon" />
+                  <p className='my-4'>MongoDB</p>
               </div>
               <div className='shadow-md shadow-[#040c16] hover:scale-110 duration-500'>
                   <img className='w-20 mx-auto' src={Git} alt="HTML icon" />
@@ -65,18 +78,6 @@ const Skills = () => {
               <div className='shadow-md shadow-[#040c16] hover:scale-110 duration-500'>
                   <img className='w-20 mx-auto' src={GitHub} alt="HTML icon" />
                   <p className='my-4'>GITHUB</p>
-              </div>
-              <div className='shadow-md shadow-[#040c16] hover:scale-110 duration-500'>
-                  <img className='w-20 mx-auto' src={Node} alt="HTML icon" />
-                  <p className='my-4'>NODE JS</p>
-              </div>
-              <div className='shadow-md shadow-[#040c16] hover:scale-110 duration-500'>
-                  <img className='w-20 mx-auto' src={Postgresql} alt="HTML icon" />
-                  <p className='my-4'>POSTGRESQL</p>
-              </div>
-              <div className='shadow-md shadow-[#040c16] hover:scale-110 duration-500'>
-                  <img className='h-20 mx-auto' src={Mysql} alt="HTML icon" />
-                  <p className='my-4'>MYSQL</p>
               </div>
               <div className='shadow-md shadow-[#040c16] hover:scale-110 duration-500'>
                   <img className='w-20 mx-auto' src={Bootstrap} alt="HTML icon" />
