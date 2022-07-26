@@ -59,10 +59,6 @@ const Skills = () => {
                   <p className='my-4'>REACT</p>
               </div>
               <div className='shadow-md shadow-[#040c16] hover:scale-110 duration-500'>
-                  <img className='h-20 mx-auto' src={Vue} alt="HTML icon" />
-                  <p className='my-4'>VUE</p>
-              </div>
-              <div className='shadow-md shadow-[#040c16] hover:scale-110 duration-500'>
                   <img className='w-20 mx-auto' src={Git} alt="HTML icon" />
                   <p className='my-4'>GIT</p>
               </div>
@@ -83,20 +79,8 @@ const Skills = () => {
                   <p className='my-4'>MYSQL</p>
               </div>
               <div className='shadow-md shadow-[#040c16] hover:scale-110 duration-500'>
-                  <img className='h-20 mx-auto' src={Heroku} alt="HTML icon" />
-                  <p className='my-4'>HEROKU</p>
-              </div>
-              <div className='shadow-md shadow-[#040c16] hover:scale-110 duration-500'>
-                  <img className='h-20 mx-auto' src={Netlify} alt="HTML icon" />
-                  <p className='my-4'>NETLIFY</p>
-              </div>
-              <div className='shadow-md shadow-[#040c16] hover:scale-110 duration-500'>
                   <img className='w-20 mx-auto' src={Bootstrap} alt="HTML icon" />
                   <p className='my-4'>BOOTSTRAP</p>
-              </div>
-              <div className='shadow-md shadow-[#040c16] hover:scale-110 duration-500'>
-                  <img className='w-20 mx-auto' src={Tailwind} alt="HTML icon" />
-                  <p className='my-4'>TAILWIND</p>
               </div>
               <div className='shadow-md shadow-[#040c16] hover:scale-110 duration-500'>
                   <img className='h-20 mx-auto' src={Sass} alt="HTML icon" />
