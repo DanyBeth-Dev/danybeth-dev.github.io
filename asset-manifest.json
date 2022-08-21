@@ -1,10 +1,9 @@
 {
   "files": {
-    "main.css": "/static/css/main.1fcad2f7.css",
-    "main.js": "/static/js/main.67e703d3.js",
+    "main.css": "/static/css/main.880f79b4.css",
+    "main.js": "/static/js/main.0a217dc5.js",
     "static/js/787.abec8035.chunk.js": "/static/js/787.abec8035.chunk.js",
     "static/media/perfil.png": "/static/media/perfil.2db55c8333825de54273.png",
-    "static/media/realestate.jpg": "/static/media/realestate.44fd19f4c6872731149c.jpg",
     "static/media/instafake.png": "/static/media/instafake.16998e2c1c8a50c4a379.png",
     "static/media/elecciones.png": "/static/media/elecciones.dd50f3411cf44c4c63c6.png",
     "static/media/pokeapi.png": "/static/media/pokeapi.fbc82cda04b828de117d.png",
@@ -18,7 +17,6 @@
     "static/media/02.jpg": "/static/media/02.1bad7af193cf3701261f.jpg",
     "static/media/nasa.png": "/static/media/nasa.1ac89b4560ba2b117f6a.png",
     "static/media/sass.png": "/static/media/sass.7cdbf6b5889c42b3e490.png",
-    "static/media/workImg.jpeg": "/static/media/workImg.e4c66be6ae2ae4f83608.jpeg",
     "static/media/09.jpg": "/static/media/09.d6114ec66e9ce225945b.jpg",
     "static/media/05.jpg": "/static/media/05.a957b039b8a7394bb239.jpg",
     "static/media/mysql.png": "/static/media/mysql.0fa268260d693783ed38.png",
@@ -38,12 +36,12 @@
     "static/media/javascript.png": "/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
     "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/index.html",
-    "main.1fcad2f7.css.map": "/static/css/main.1fcad2f7.css.map",
-    "main.67e703d3.js.map": "/static/js/main.67e703d3.js.map",
+    "main.880f79b4.css.map": "/static/css/main.880f79b4.css.map",
+    "main.0a217dc5.js.map": "/static/js/main.0a217dc5.js.map",
     "787.abec8035.chunk.js.map": "/static/js/787.abec8035.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.1fcad2f7.css",
-    "static/js/main.67e703d3.js"
+    "static/css/main.880f79b4.css",
+    "static/js/main.0a217dc5.js"
   ]
 }
