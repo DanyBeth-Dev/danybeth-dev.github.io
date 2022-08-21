@@ -22,5 +22,8 @@
   "linkedin_url": "https://www.linkedin.com/in/dev-danielahernandez/?locale=en_US",
   "resume": "Resume",
   "resume_url": "https://drive.google.com/file/d/13MJ3C4IUXe2TP3r2n6g3lzjKo5tco7wL/view?usp=sharing",
-  "elections": "Vote counter"
+  "elections": "Vote counter",
+  "instructions": "Instructions",
+  "inst1": "The application takes about 3 seconds to start and the credentials for its use are:",
+  "inst2": "User: Telly.Hoeger@billy.biz"
 }
