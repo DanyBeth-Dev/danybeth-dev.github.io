@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.1b074921.css",
-    "main.js": "/static/js/main.a2c0c772.js",
+    "main.js": "/static/js/main.ef22b0e6.js",
     "static/js/787.abec8035.chunk.js": "/static/js/787.abec8035.chunk.js",
     "static/media/perfil.png": "/static/media/perfil.2db55c8333825de54273.png",
     "static/media/instafake.png": "/static/media/instafake.16998e2c1c8a50c4a379.png",
@@ -20,28 +20,28 @@
     "static/media/09.jpg": "/static/media/09.d6114ec66e9ce225945b.jpg",
     "static/media/05.jpg": "/static/media/05.a957b039b8a7394bb239.jpg",
     "static/media/mysql.png": "/static/media/mysql.0fa268260d693783ed38.png",
-    "static/media/calculadora-react.png": "/static/media/calculadora-react.27daa448b96c125ac4fb.png",
-    "static/media/tareas-react.png": "/static/media/tareas-react.937186abeb52b012f5f1.png",
     "static/media/react.png": "/static/media/react.0cf951a69d8e58f83f9d.png",
     "static/media/node.png": "/static/media/node.952a9ea986dcfa5229ad.png",
     "static/media/git.png": "/static/media/git.305be34a91099bc3c999.png",
     "static/media/typescript.png": "/static/media/typescript.c4105801aadf2606ac30.png",
     "static/media/mongo.png": "/static/media/mongo.2a1528ddc31d4ce8518d.png",
     "static/media/netlify.png": "/static/media/netlify.156b9a663fd0c16d4e19.png",
+    "static/media/calculadora-react.png": "/static/media/calculadora-react.d9bcea16140f6b133ac0.png",
     "static/media/github.png": "/static/media/github.3b9e32903aa89111875d.png",
     "static/media/html.png": "/static/media/html.2ba4fabc69a89a8f71e6.png",
     "static/media/tailwind.png": "/static/media/tailwind.e47ac876b8d4d0bba47a.png",
     "static/media/css.png": "/static/media/css.69a82c2d9e45c933a9cb.png",
+    "static/media/tareas-react.png": "/static/media/tareas-react.d8f08005ae1251cd4f13.png",
     "static/media/bootstrap.png": "/static/media/bootstrap.888ecaadf3080ee55e03.png",
     "static/media/javascript.png": "/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
     "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/index.html",
     "main.1b074921.css.map": "/static/css/main.1b074921.css.map",
-    "main.a2c0c772.js.map": "/static/js/main.a2c0c772.js.map",
+    "main.ef22b0e6.js.map": "/static/js/main.ef22b0e6.js.map",
     "787.abec8035.chunk.js.map": "/static/js/787.abec8035.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1b074921.css",
-    "static/js/main.a2c0c772.js"
+    "static/js/main.ef22b0e6.js"
   ]
 }
