@@ -47,7 +47,7 @@ const Work = () => {
                 React JS Application
               </span>
               <div className='pt-8 text-center'>
-                <a href='https://netlify-thinks-danybeth-dev-is-great.netlify.app/' target="_blank" rel="noreferrer">
+                <a href='https://fastidious-monstera-99b36d.netlify.app/' target="_blank" rel="noreferrer">
                   <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>
                     Demo
                   </button>
@@ -70,7 +70,7 @@ const Work = () => {
                 React JS Application
               </span>
               <div className='pt-8 text-center'>
-                <a href='https://the-awesome-danybeth-dev-site.netlify.app/' target="_blank" rel="noreferrer">
+                <a href='https://gleeful-stroopwafel-f05a25.netlify.app/' target="_blank" rel="noreferrer">
                   <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>
                     Demo
                   </button>
