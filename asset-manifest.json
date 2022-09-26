@@ -1,9 +1,10 @@
 {
   "files": {
     "main.css": "/static/css/main.1b074921.css",
-    "main.js": "/static/js/main.1c181902.js",
+    "main.js": "/static/js/main.d632ad3b.js",
     "static/js/787.abec8035.chunk.js": "/static/js/787.abec8035.chunk.js",
     "static/media/perfil.png": "/static/media/perfil.2db55c8333825de54273.png",
+    "static/media/frontend-bsale.png": "/static/media/frontend-bsale.bd3909ac6bd68d366b76.png",
     "static/media/instafake.png": "/static/media/instafake.16998e2c1c8a50c4a379.png",
     "static/media/elecciones.png": "/static/media/elecciones.dd50f3411cf44c4c63c6.png",
     "static/media/pokeapi.png": "/static/media/pokeapi.fbc82cda04b828de117d.png",
@@ -20,6 +21,8 @@
     "static/media/09.jpg": "/static/media/09.d6114ec66e9ce225945b.jpg",
     "static/media/05.jpg": "/static/media/05.a957b039b8a7394bb239.jpg",
     "static/media/mysql.png": "/static/media/mysql.0fa268260d693783ed38.png",
+    "static/media/backend-bsale.png": "/static/media/backend-bsale.46bd7aca94da294f9fde.png",
+    "static/media/recipes-vue.png": "/static/media/recipes-vue.6840607182ef4814af78.png",
     "static/media/react.png": "/static/media/react.0cf951a69d8e58f83f9d.png",
     "static/media/node.png": "/static/media/node.952a9ea986dcfa5229ad.png",
     "static/media/git.png": "/static/media/git.305be34a91099bc3c999.png",
@@ -37,11 +40,11 @@
     "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/index.html",
     "main.1b074921.css.map": "/static/css/main.1b074921.css.map",
-    "main.1c181902.js.map": "/static/js/main.1c181902.js.map",
+    "main.d632ad3b.js.map": "/static/js/main.d632ad3b.js.map",
     "787.abec8035.chunk.js.map": "/static/js/787.abec8035.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1b074921.css",
-    "static/js/main.1c181902.js"
+    "static/js/main.d632ad3b.js"
   ]
 }
